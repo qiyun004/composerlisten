@@ -1,0 +1,14 @@
+{
+    "name": "qiyun004/composerlisten",
+    "description": "a composer listen",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "qiyun004",
+            "email": "1809275454@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
